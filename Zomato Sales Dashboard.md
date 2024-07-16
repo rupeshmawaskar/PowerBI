@@ -1,5 +1,5 @@
 
-# The DataViz Challenge - **Zomato Dashboards**
+#**Zomato Dashboards**
 
 **Create Stunning Tableau Desktop/Tableau Public/PowerBI Dashboard from the same dataset on which EDA was performed for the capstone project.**
 
